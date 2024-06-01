@@ -1,0 +1,32 @@
+@import url('clash-display.css');
+
+h3{
+    font-family: "ClashDisplay-Medium";
+    cursor: pointer;
+    transition: color 0.5s ease;
+}
+#feature{
+    font-family: "ClashDisplay-Regular";
+}
+li{
+    font-family: "ClashDisplay-Medium";
+    cursor: pointer;
+    transition: color 0.5s ease;
+}
+li:hover{
+    color: #FF5555;
+    
+}
+
+#button{
+    font-family: "ClashDisplay-Medium";
+}
+
+h1{
+    font-family: "ClashDisplay-Bold";
+}
+p{
+    font-family: "ClashDisplay-Regular";
+    color: rgb(155, 155, 155);
+
+}
