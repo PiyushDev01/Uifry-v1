@@ -19,7 +19,7 @@ function Nav() {
 
         <ul className=' md:flex hidden flex-row gap-6 p-2 m-2 text-lg font-semibold'>
         <a href=""> <li>Home</li></a>
-        <a href=""> <li>About Us</li></a>
+        <a href="#aboutus"> <li>About Us</li></a>
         <a href=""> <li>Pricing</li></a>
         <a href="#feature"> <li>Features</li></a>
             

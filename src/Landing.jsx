@@ -21,7 +21,7 @@ function Landing() {
 
 
         </div>
-        <div className=" w-5/6 h-fit  flex flex-col md:flex-row md:px-14  justify-center">
+        <div className=" w-5/6 h-fit  flex flex-col md:flex-row md:px-14  justify-center" id="home">
           <div className=" w-full md:w-1/2 flex flex-col mb-10 md:mb-0 text-center md:text-left justify-center  h-full ">
             <h1 className=" text-3xl md:text-5xl mt-10 m-4">
               Make The Best Financial Decisions

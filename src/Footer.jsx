@@ -86,7 +86,7 @@ function Footer() {
         <div className=" flex flex-row flex-wrap md:px-10 py-2 gap-8 md:gap-16 " >
             <div className="  flex flex-col gap-5" >
                 <h1>Links</h1>
-                <h3>Home</h3>
+                <a href="#home"><h3>Home</h3></a>
                 <h3>About Us</h3>
                 <h3>Booking</h3>
                 <h3>Blog</h3>
