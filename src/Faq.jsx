@@ -46,7 +46,7 @@ function Faq() {
                   ultricies. In ultrices malesuada elit mauris.
                 </p>
               </div>
-              className=' text-xs md:text-sm '
+              
               <div
                 className="w-full  p-8 my-4 rounded-lg"
                 style={{ background: "#FFF" }}
