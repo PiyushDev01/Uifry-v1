@@ -10,7 +10,7 @@ function App() {
       <Nav />
      <Landing />
      <Faq />
-     <Footer />
+     <Footer/>
 
     </>
   )
